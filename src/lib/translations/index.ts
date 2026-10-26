@@ -14,6 +14,7 @@ export const availableLocales: Record<string, [name: string, flag: emojiFlags.Co
     en: ['English', emojiFlags.GB.emoji],
     de: ['Deutsch', emojiFlags.DE.emoji],
     es: ['Español', emojiFlags.ES.emoji],
+    fr: ['Français', emojiFlags.FR.emoji],
     "zh-cn": ['中文', emojiFlags.CN.emoji]
 }
 export const fallbackLocale = 'en'
