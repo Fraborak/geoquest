@@ -1,0 +1,110 @@
+{
+    "spin-flag": {
+        "name": "Fait tourner le drapeau",
+        "description": "Tu devrais peut-être essayer de faire tourner le drapeau..."
+    },
+    "1-country": {
+        "name": "On ne fait que commencer",
+        "description": "Trouve n'importe quel pays sur la carte."
+    },
+    "5-streak": {
+        "name": "M-M-M-Monster Kill",
+        "description": "Trouve 5 pays d'affilée."
+    },
+    "10-streak": {
+        "name": "Mitrailleur de porte-avions en approche",
+        "description": "Trouve 10 pays d'affilée."
+    },
+    "30-streak": {
+        "name": "Arme nucléaire tactique",
+        "description": "Trouve 30 pays d'affilée."
+    },
+    "daily-challenge": {
+        "name": "Dose quotidienne",
+        "description": "Termine un défi quotidien sans erreur."
+    },
+    "all-north-america": {
+        "name": "Victoire culturelle",
+        "description": "Trouve tous les pays d'Amérique du Nord sans erreur."
+    },
+    "all-balkans": {
+        "name": "Goran Bregović",
+        "description": "Trouve tous les pays des Balkans sans erreur."
+    },
+    "all-caribbean": {
+        "name": "Arr, l'ami !",
+        "description": "Trouve tous les pays des Caraïbes sans erreur."
+    },
+    "all-middle-east": {
+        "name": "Là où tout a commencé",
+        "description": "Trouve tous les pays du Moyen-Orient sans erreur."
+    },
+    "all-europe": {
+        "name": "12 étoiles dorées",
+        "description": "Trouve tous les pays d'Europe sans erreur."
+    },
+    "all-oceania": {
+        "name": "Monde aquatique",
+        "description": "Trouve tous les pays d'Océanie sans erreur."
+    },
+    "all-asia": {
+        "name": "7 troupes par tour",
+        "description": "Trouve tous les pays d'Asie sans erreur."
+    },
+    "all-southeast-asia": {
+        "name": "Saut d'île en île",
+        "description": "Trouve tous les pays d'Asie du Sud-Est sans erreur."
+    },
+    "all-africa": {
+        "name": "Roi de la jungle",
+        "description": "Trouve tous les pays d'Afrique sans erreur."
+    },
+    "all-america": {
+        "name": "Amerigo Vespucci",
+        "description": "Trouve tous les pays des Amériques sans erreur."
+    },
+    "all-world": {
+        "name": "Littéralement 5Head",
+        "description": "Trouve TOUS les pays sans erreur."
+    },
+    "all-usa-sates": {
+        "name": "Arrache-les tous",
+        "description": "Trouve TOUS les états des États-Unis sans commettre la moindre erreur."
+    },
+    "all-chinese-provinces": {
+        "name": "L'Empire du Milieu",
+        "description": "Trouve TOUTES les provinces de Chine sans commettre la moindre erreur."
+    },
+    "all-germany-states": {
+        "name": "De la mer du Nord jusqu'aux Alpes",
+        "description": "Trouve TOUS les länder allemands sans erreur."
+    },
+    "all-russian-regions": {
+        "name": "Alexandre Nevski",
+        "description": "Trouve TOUTES les régions de Russie sans commettre la moindre erreur."
+    },
+    "all-french-departments": {
+        "name": "Les conquêtes napoléoniennes",
+        "description": "Trouve TOUS les départements de France sans commettre la moindre erreur."
+    },
+    "all-italian-regions": {
+        "name": "Goutte à goutte, l'eau creuse la pierre",
+        "description": "Trouve TOUTES les régions d'Italie sans commettre la moindre erreur."
+    },
+    "all-italian-provinces": {
+        "name": "Toi aussi, Brutus ?",
+        "description": "Trouve TOUTES les provinces d'Italie sans commettre la moindre erreur."
+    },
+    "all-canadian-provinces": {
+        "name": "Sirop d'érable, hein",
+        "description": "Trouve TOUTES les provinces du Canada sans commettre la moindre erreur."
+    },
+    "all-world-capitals": {
+        "name": "Perdu dans la traduction",
+        "description": "Trouve les capitales de TOUS les pays du monde sans commettre la moindre erreur."
+    },
+    "supporter": {
+        "name": "Mécène",
+        "description": "Deviens un mécène !"
+    }
+}

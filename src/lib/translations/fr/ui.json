@@ -1,0 +1,23 @@
+{
+    "menu": "Menu",
+    "word": "{{count:eq; 1:foobar default:barfoo}}",
+    "mistakes": "{{mistakes:gt; 0: {{mistakes; 1:Une erreur; default:{{mistakes}} erreurs}}; default:Aucune erreur !}}",
+    "correctAnswers": "{{correct}} sur {{allAnswers}} correctes",
+    "allCorrect": "Tout trouvé !",
+    "dailyQuest": "Quête quotidienne",
+    "practice": "s'entraîner",
+    "newGame": "Nouvelle partie",
+    "achievements": "Succès",
+    "changeMap": "Changer de carte",
+    "settings": "Paramètres",
+    "restart": "Recommencer",
+    "share": "Partager",
+    "start": "Démarrer",
+    "flagsOnly": "Afficher uniquement les drapeaux",
+    "showTimer": "Afficher le chronomètre",
+    "noPanNoZoom": "Désactiver le panoramique et le zoom",
+    "highscores": "Classement",
+    "becomeASupporter": "Devenir soutient",
+    "viewBenefits": "Voir les avantages",
+    "newBest": "Nouveau record !"
+}
